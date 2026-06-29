@@ -2,6 +2,10 @@
 
 A Codex skill for extracting, analyzing, and rebuilding WebGL, Canvas, shader, FBO refraction, layered composition, and motion effects from websites.
 
+This repository is a single-skill fork/adaptation based on the `web-shader-extractor` skill from [lixiaolin94/skills](https://github.com/lixiaolin94/skills). I kept it as a separate focused repository so it can publish and install only this one skill, while still preserving attribution to the upstream project.
+
+If you want full GitHub fork lineage, the cleaner path is to fork `lixiaolin94/skills`, remove unrelated skills from your fork, and keep this repository as the focused published package. For now, this repo documents the upstream source clearly and keeps the reusable skill separate from demo/clone code.
+
 This repository contains only one skill:
 
 - `web-shader-extractor`
@@ -50,7 +54,7 @@ This version extends the original workflow with notes from reconstructing high-e
 
 This skill is based on and adapted from the `web-shader-extractor` skill in [lixiaolin94/skills](https://github.com/lixiaolin94/skills).
 
-The original repository README describes the project license as MIT. This fork preserves attribution to the upstream project and adds workflow notes, validation guidance, and publishing guidance developed during local WebGL reconstruction work.
+The original repository README describes the project license as MIT. This focused fork preserves attribution to the upstream project and adds workflow notes, validation guidance, case-study notes, and publishing guidance developed during local WebGL reconstruction work.
 
 ## Publishing Boundaries
 
