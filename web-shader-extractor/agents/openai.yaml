@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "Web Shader Extractor"
+  short_description: "Extract WebGL shaders and motion effects"
+  brand_color: "#2563EB"
+  default_prompt: "Use $web-shader-extractor to analyze and rebuild this site's WebGL, FBO, shader, and motion effects."
+
+policy:
+  allow_implicit_invocation: true
