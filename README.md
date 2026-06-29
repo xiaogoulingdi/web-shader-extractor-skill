@@ -8,10 +8,10 @@ This repository contains only one skill:
 
 ## Install
 
-Install this skill from a GitHub repository:
+Install this skill from this GitHub repository:
 
 ```bash
-npx skills add https://github.com/<your-name>/<your-repo> --skill web-shader-extractor
+npx skills add https://github.com/xiaogoulingdi/web-shader-extractor-skill --skill web-shader-extractor
 ```
 
 Or copy the `web-shader-extractor/` folder into your local Codex skills directory.
